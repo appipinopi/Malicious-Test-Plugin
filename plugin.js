@@ -9,7 +9,7 @@ class Plugin {
         const spawnIcon = () => {
             const icon = document.createElement('img');
             // 実際の環境では相対パスや絶対URLを指定
-            icon.src = './static/icon.svg';
+            icon.src = './icon.svg';
             icon.style.position = 'fixed';
             icon.style.left = Math.random() * 100 + 'vw';
             icon.style.top = Math.random() * 100 + 'vh';
@@ -28,7 +28,7 @@ class Plugin {
         };
 
         // 0.2秒ごとにアイコンを出す
-        const interval = setInterval(spawnIcon, 200);
+        const interval = setInterval(spawnIcon, 100);
         this.intervals.push(interval);
 
         // メッセージを表示
@@ -53,3 +53,4 @@ class Plugin {
         document.getElementById('malicious-msg')?.remove();
     }
 }
+
