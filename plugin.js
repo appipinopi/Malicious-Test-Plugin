@@ -9,7 +9,7 @@ class Plugin {
         const spawnIcon = () => {
             const icon = document.createElement('img');
             // 実際の環境では相対パスや絶対URLを指定
-            icon.src = 'icon.svg';
+            icon.src = 'https://edbplugin.github.io/easy-bdp/static/icon.svg';
             icon.style.position = 'fixed';
             icon.style.left = Math.random() * 100 + 'vw';
             icon.style.top = Math.random() * 100 + 'vh';
@@ -53,6 +53,7 @@ class Plugin {
         document.getElementById('malicious-msg')?.remove();
     }
 }
+
 
 
 
