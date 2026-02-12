@@ -10,6 +10,6 @@
   "affectsBlocks": true,
   "repo": "https://github.com/YourName/my-plugin",
   "license": "MIT",
-  "uuid": "edbp-test-danger-666"
   "minAppVersion": "1.0.0"
 }
+
