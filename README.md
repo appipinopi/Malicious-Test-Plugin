@@ -1,4 +1,4 @@
-# Malicious Test Plugin (Audio Loop Edition)
+# Malicious Test Plugin
 
 このプラグインは、EDBPのプラグインシステムのテスト用に作成されたジョークプラグインです。
 
@@ -13,3 +13,4 @@
 
 ## ライセンス
 MIT
+
