@@ -7,11 +7,12 @@
   "icon": "https://github.com/appipinopi/Malicious-Test-Plugin/raw/refs/heads/main/icon.svg",
   "tags": ["anti"],
   "affectsStyle": false,
-  "affectsBlocks": true,
+  "affectsBlocks": false,
   "repo": "https://github.com/appipinopi/Malicious-Test-Plugin/",
   "license": "MIT",
   "minAppVersion": "1.0.0"
 }
+
 
 
 
