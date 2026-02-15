@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "appipinopi",
   "description": "テスト用の危険なプラグインです。有効にするとEDBPアイコンが大量発生します。",
-  "icon": "https://example.com/icon.png",
+  "icon": "https://github.com/appipinopi/Malicious-Test-Plugin/raw/refs/heads/main/icon.svg",
   "tags": ["anti"],
   "affectsStyle": false,
   "affectsBlocks": true,
@@ -12,4 +12,5 @@
   "license": "MIT",
   "minAppVersion": "1.0.0"
 }
+
 
