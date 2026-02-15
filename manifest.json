@@ -8,9 +8,10 @@
   "tags": ["anti"],
   "affectsStyle": false,
   "affectsBlocks": true,
-  "repo": "https://github.com/YourName/my-plugin",
+  "repo": "https://github.com/appipinopi/Malicious-Test-Plugin/",
   "license": "MIT",
   "minAppVersion": "1.0.0"
 }
+
 
 
