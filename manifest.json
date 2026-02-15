@@ -1,7 +1,7 @@
 {
   "id": "malicious-test",
   "name": "Malicious Test Plugin",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "appipinopi",
   "description": "テスト用の危険なプラグインです。有効にするとEDBPアイコンが大量発生します。",
   "icon": "https://github.com/appipinopi/Malicious-Test-Plugin/raw/refs/heads/main/icon.svg",
@@ -12,6 +12,7 @@
   "license": "MIT",
   "minAppVersion": "1.0.0"
 }
+
 
 
 
